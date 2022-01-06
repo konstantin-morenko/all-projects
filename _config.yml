@@ -1,8 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Все проекты Константин Моренко
+title: Все проекты
 description: Коллекция всех проектов Константина Моренко
 
 aux_links:
   "Константин Моренко":
     - "https://konstantin-morenko.ru"
+
+search_enabled: true
